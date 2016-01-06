@@ -18,5 +18,14 @@ Simple budget and spending tracker.
   * Should show 5 most popular/recent categories at top of list
   * Remaining categories shown below in alphabetical order
 
-### View Expenses
+### Manage/View Expenses
+TBD
+
+### Configure Budgets
+TBD
+
+### Settings
+TBD
+
+### Widgets
 TBD
